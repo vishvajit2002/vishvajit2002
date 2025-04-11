@@ -33,7 +33,7 @@ I'm a resilient and intelligent Computer Science graduate (Best Outgoing Student
 - 💪 **Unleash Your Strength** – [Live Demo](https://vishvajit2002.github.io/mini-project/Gym_shopping_a21csdc53/index.html)  
 - 🧑‍💻 **Portfolio** – [Explore Now](https://vishvajit2002.github.io/portfolio/)
 - 📝✍ **A Wikipedia Website** - [Click Here](https://vishvajit2002.github.io/mini-project/Wikipedia/jul21wikipedia.html)
-- 📝✍ **PlayStore Clone** - [Click Here](https://www.figma.com/proto/HBJSQFvwDA98cdblPrgaOd/Playstore?page-id=0%3A1&node-id=82-2&p=f&viewport=268%2C110%2C0.1&t=z532cfbAvVzt8tZS-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2))
+- 📝✍ **PlayStore Clone** - [Click Here](https://www.figma.com/proto/HBJSQFvwDA98cdblPrgaOd/Playstore?page-id=0%3A1&node-id=82-2&p=f&viewport=268%2C110%2C0.1&t=z532cfbAvVzt8tZS-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2)
 
 
 ## 🏅 Achievements & Certifications
